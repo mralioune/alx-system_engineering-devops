@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R vincent:saff .
+chown -R vincent:saff .
